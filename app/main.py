@@ -1,6 +1,3 @@
-import json
-import xml.etree.ElementTree as ET
-
 from app.book import Book
 from app.display import DisplayConsole, DisplayConsoleReverse
 from app.print import PrintConsole, PrintConsoleReverse
